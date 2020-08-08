@@ -2,7 +2,9 @@
   "name": "rails_tutorial_sample_app",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^5.1.1"
+    "@rails/webpacker": "^5.1.1",
+    "bootstrap": "3.4.1",
+    "jquery": "3.4.1"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
